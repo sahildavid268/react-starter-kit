@@ -1,7 +1,7 @@
 {
-  "name": "jscript-table",
+  "name": "react-starter-kit",
   "version": "1.0.0",
-  "description": "'Javascript Periodic Table'",
+  "description": "Starter Kit for building react apps",
   "main": "webpack.config.js",
   "author": "Sahil David",
   "license": "ISC",
